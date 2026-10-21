@@ -1,7 +1,7 @@
 // ===== فيديوهاتك: حط الملفات في فولدر videos/ وعدّل القايمة دي =====
 const REELS=[
   {src:"videos/5.mp4", title:"CCREATION"},
-  {src:"videos/2.mp4", title:"WAY Agancy"},
+  {src:"videos/2.mp4", title:"WAY Agency"},
   {src:"videos/3.mp4", title:"TOURISM"},
   {src:"videos/4.mp4", title:"CARS"},
   {src:"videos/1.mp4", title:"ُEstore"},
